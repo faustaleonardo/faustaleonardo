@@ -1,4 +1,4 @@
-### G'day! 👋
+### G'day! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 - 🔭 I’m currently working as a Software Engineer in Indonesia
 - 💕 I’m most interested in Javascript, Web Stuffs, and Algorithm
