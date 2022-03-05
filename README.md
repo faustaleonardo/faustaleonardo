@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />, I'm Fausta Leonardo</h1>
+<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />, I'm Fausta Leonardo</h1>
 <h3 align="center">Forward-thinking and progress-driven software engineer with background working productively in dynamic environments. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.</h3>
 
 - 🔭 I’m currently working as a Software Engineer in **Indonesia**
@@ -22,7 +22,7 @@
 <a href="https://dev.to/faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="faustaleonardo" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3> -->
 <!-- <p align="left"> -->
 <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
