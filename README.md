@@ -1,15 +1,15 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />, I'm Fausta Leonardo</h1>
 <h3 align="center">Forward-thinking and progress-driven software engineer with background working productively in dynamic environments. Dedicated to achieving development objectives according to tight schedules while producing impeccable code.</h3>
 
-- 🔭 I’m currently working as a Software Engineer in **Indonesia**
+- 🔭 I’m currently working as a Software Engineer in **Indonesia** 🇮🇩
 
 - 💕 I’m most interested in **Javascript, Web Stuffs, and Algorithm**
 
-- ⭐ Actively participate in Leetcode contest since 2020 - [@faustaleonardo](https://leetcode.com/faustaleonardo)
+- ⭐ Actively participate in **Leetcode** contest since 2020 - [@faustaleonardo](https://leetcode.com/faustaleonardo)
 
 - 💥 Portfolio - [Visit here!](https://faustaleonardo.github.io/)
 
-- ⚡ Fun fact: I have worked in Australia for two years ✋
+- ⚡ Fun fact: I have worked in **Australia** 🇦🇺 for two years ✋
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustaleonardo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="faustaleonardo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faustaleonardo&show_icons=true&locale=en&theme=algolia" alt="faustaleonardo" /></p>
