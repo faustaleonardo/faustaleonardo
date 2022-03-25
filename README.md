@@ -9,7 +9,7 @@
 
 - ⭐ Actively participate in **Leetcode** contest since 2020 - [@faustaleonardo](https://leetcode.com/faustaleonardo)
 
-- 💥 Portfolio - [Visit here!](https://faustaleonardo.github.io/)
+- 💥 Portfolio - [Visit here!](https://faustaleonardo.space/)
 
 - ⚡ Fun fact: I have worked in **Australia** 🇦🇺 for two years ✋
 
