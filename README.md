@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Software Engineer in **Indonesia** 🇮🇩
 
-- 💕 I’m most interested in **Javascript, Web Stuffs, and Algorithm**
+- 💕 I’m most interested in **Javascript, Front-end Stuffs, and Algorithm**
 
 - ⭐ Actively participate in **Leetcode** contest since 2020 - [@faustaleonardo](https://leetcode.com/faustaleonardo)
 
