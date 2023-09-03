@@ -3,8 +3,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />, I'm Fausta Leonardo</h1>
 <h3 align="center">Forward-thinking and progress-driven software engineer with background working productively in dynamic environments. Dedicated to achieving development objectives according to tight schedules while producing impeccable code.</h3>
 
-- 🔭 I’m currently working as a Software Engineer in **Indonesia** 🇮🇩
-
 - 💕 I’m most interested in **Javascript, Frontend Stuffs, and Algorithm**
 
 - ⭐ Actively participate in **Leetcode** contest since 2020 - [@faustaleonardo](https://leetcode.com/faustaleonardo)
